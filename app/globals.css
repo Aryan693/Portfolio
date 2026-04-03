@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    background-color: #0A0A0A;
+    color: #ededed;
+  }
+
+  /* Fix blinking/text cursor appearing on non-interactive elements */
+  *,
+  *::before,
+  *::after {
+    cursor: default;
+  }
+
+  a,
+  button,
+  [role="button"],
+  label[for],
+  summary {
+    cursor: pointer;
+  }
+
+  input,
+  textarea,
+  select,
+  [contenteditable] {
+    cursor: text;
+  }
+
+  /* Prevent text selection cursor on most text elements */
+  p, h1, h2, h3, h4, h5, h6, span, li, div {
+    user-select: none;
+  }
+}
+
+@layer utilities {
+  .text-glow {
+    text-shadow: 0 0 10px rgba(0, 229, 204, 0.5);
+  }
+}

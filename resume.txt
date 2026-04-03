@@ -1,0 +1,86 @@
+Aryan Nitin Gulhane
+aryangulhane693@gmail.com
+ 
++91 8779793253
+ 
+LinkedIn
+ 
+India
+ 
+EDUCATION
+Bachelor of Technology, Computer Science, Indian Institute Of Technology Dharwad
+2021 – 2025  | Dharwad, India
+CGPA: 8.66
+Higher Secondary Certificate (HSC), Shubhamraje Junior College | 12th score: 96.5%
+2021  | Thane, India
+Central Board of Secondary Education, Rainbow International School | 10th score : 96%
+2019  | Thane, India
+ACHIEVEMENTS & CERTIFICATIONS
+JEE Main               AIR 2408 (99.79 percentille)                    Microsoft Certified: Fabric Data Engineer  (DP-700)
+among ~1M+ candidates.
+JEE Advanced     AIR 4134                                                               Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
+among ~200K qualified candidates.
+SKILLS
+Data Engineering & Analytics:
+Pandas, NumPy, SQL, Microsoft Fabric, Pyspark,Data Pipelines,ML
+Languages:
+Python,C++,JavaScript,Bash
+Machine Learning / AI:
+PyTorch, TensorFlow, Scikit-learn, HuggingFace, LlamaIndex,FAISS
+Database:
+MySQL, MongoDB, Redis, Neo4j
+EXPERIENCE
+Software Engineer, MAQ Software
+06/2025 – Present  | Noida,India
+•Engineered a workflow automation bot system using the MCP server and Microsoft Teams APIs to collect daily employee stand-up updates 
+through scheduled triggers, automating morning and evening reporting workflows across internal teams and reducing manual reporting effort 
+by around 30%.
+•Orchestrated backend services to aggregate responses, generate automated progress summaries, and deliver reports to managers via email.
+•Architected a metadata-driven data ingestion framework on Microsoft Fabric to ingest large-scale datasets from multiple data sources into the 
+Bronze layer using configurable load strategies.
+•Developed scalable data pipelines supporting full and incremental loads, enabling reliable processing of high-volume datasets ranging from 100 
+million to billions of records.
+•Established Medallion architecture (Bronze → Silver → Gold) using notebooks and automated pipelines to transform raw data into analytics-
+ready datasets for enterprise reporting and downstream analytics workflows.
+AI Engineer Intern, Dvara Holdings
+01/2025 – 04/2025  | Dharwad, India
+•Automated manual contract compliance review by developing a RAG-based LLM system that validates legal clauses against company guidelines 
+using FAISS vector search and HuggingFace embeddings, reducing legal team effort by ~60%.
+•Implemented document chunking and a semantic retrieval pipeline to process 1000+ contract clauses and generate automated compliance 
+reports based on the company policy guidelines.
+•Integrated LlamaIndex reranking to improve retrieval relevance and accuracy of contract clauses used in compliance analysis.
+AI Engineer Intern, Flomoney
+05/2024 – 08/2024  | Singapore
+•Developed LawGPT, a domain-specific legal chatbot trained on legal documents from 10+ EU countries, including regulations, clauses, and 
+constitutional guidelines, enabling automated legal information retrieval and query answering.
+•Streamlined an automated Machine Learning  pipeline for data ingestion, model training, evaluation, and deployment.
+•Enhanced in-house chatbot capabilities by developing backend API endpoints and integrating image generation features
+Adversarial ML Research – Fake Speech Detection, IIT Dharwad
+08/2023 – 04/2024  | Dharwad,India
+•Investigated backdoor poisoning attacks in fake speech detection models by exploiting frequency-domain perturbations.
+•Developed a stealthy trigger generation mechanism demonstrating how adversarial inputs bypass existing detection systems.
+•Trained and evaluated models to analyze the robustness of speech classifiers against backdoor attacks that achieved a 93% attack success rate.
+•Deployed remote training workflows and managed experiments using GitHub-based version control and server-based model execution.
+Machine Learning Research Intern, IIT Bombay
+05/2023 – 08/2023  | Mumbai, India
+•Worked at Kotia Centre for Digital Health, applying machine learning techniques to healthcare datasets to develop a model for predicting ICU 
+length of stay from patient medical records, achieving 90% accuracy.
+•Processed and cleaned healthcare datasets containing 200K+ patient records, preparing high-quality data for machine learning analysis.
+•Applied One-Class SVM anomaly detection to identify and remove inconsistent medical records prior to model training.
+•Trained models using Scikit-learn and PyTorch to estimate ICU stay duration from historical healthcare data.
+PROJECTS
+Movie Rating Platform
+•Locally deployed a movie rating platform enabling users to submit reviews and dynamically compute aggregate ratings.
+•Designed a normalized relational database schema and ER model to manage movies, users, reviews, and ratings efficiently.
+•Executed SQL queries and transaction handling for rating aggregation, search, and filtering, ensuring data consistency and fast retrieval.
+Inter IIT Sports Schedule Management Website
+•Developed a sports event management platform to schedule matches and update live scores for the Inter-IIT tournament.
+•Designed a normalized MySQL schema and backend APIs to manage tournament match data and automate leaderboard generation.
+•Implemented real-time tournament match score updates and dynamic point allocation logic using PHP and SQL queries.
+CO-CURRICULAR ACTIVITIES
+Football Club Secretary
+2022 – 2023  | IIT, Dharwad
+Captained the football team of IIT Dharwad twice in All India INTER-IIT (IIT Roorkee and IIT Gandhi Nagar)
+Junior Overall Co-ordinator PARSEC 3.0,Techfest
+IIT, Dharwad
+Coding Club member, Event Management, General Finance Team.Mentored a group of 5 students from the academic year of the 2022 batch.
