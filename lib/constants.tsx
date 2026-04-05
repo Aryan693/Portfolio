@@ -6,13 +6,18 @@ export const PERSONAL_INFO = {
   tagline: "Building scalable LLM systems, data pipelines, and backend infrastructure for real-world applications.",
   email: "aryangulhane693@gmail.com",
   phone: "+91 8779793253",
-  location: "Remote · Noida · Thane",
+  location: "Thane, Maharashtra",
   linkedin: "https://www.linkedin.com/in/aryan-nitin-gulhane-16a279226/",
   github: "https://github.com/Aryan693",
   resumeUrl: "/resume",
   resumePdfUrl: "/Aryan_Nitin_Gulhane_IIT_Dh-CV.pdf"
 };
-
+export const ROLE_FOCUS = [
+  'AI / ML Engineer',
+  'Data Engineer',
+  'Backend Software Engineer',
+  'Applied AI Engineer'
+];
 export const SERVICES = [
   {
     icon: <Bot className="w-8 h-8 text-accent" />,
