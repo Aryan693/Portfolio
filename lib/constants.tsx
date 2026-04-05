@@ -16,18 +16,18 @@ export const PERSONAL_INFO = {
 export const SERVICES = [
   {
     icon: <Bot className="w-8 h-8 text-accent" />,
-    title: 'AI & LLM Engineering',
-    description: 'RAG pipelines, LlamaIndex, FAISS, HuggingFace — building domain-specific AI systems for real enterprise problems.',
+    title: 'Applied AI / LLM Systems',
+    description: 'Production-grade RAG pipelines, LlamaIndex, FAISS, HuggingFace — solving real enterprise use-cases with GenAI.',
   },
   {
     icon: <Database className="w-8 h-8 text-accent" />,
     title: 'Data Engineering',
-    description: 'Medallion architecture, Microsoft Fabric, scalable pipelines handling 100M–1B+ records.',
+    description: 'Scalable data pipelines, Medallion architecture, Microsoft Fabric — handling 100M–1B+ records.',
   },
   {
     icon: <Workflow className="w-8 h-8 text-accent" />,
-    title: 'Automation & Backend',
-    description: 'Workflow bots via MCP + Teams APIs, FastAPI/REST backends, ML pipelines from ingestion to deployment.',
+    title: 'Backend & Systems Engineering',
+    description: 'FastAPI services, workflow automation via MCP, distributed systems, and production ML pipelines.',
   }
 ];
 
