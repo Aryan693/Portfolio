@@ -8,7 +8,6 @@ export const PERSONAL_INFO = {
   phone: "+91 8779793253",
   location: "Thane, Maharashtra",
   linkedin: "https://www.linkedin.com/in/aryan-nitin-gulhane-16a279226/",
-  github: "https://github.com/Aryan693",
   resumeUrl: "/resume",
   resumePdfUrl: "/Aryan_Nitin_Gulhane_IIT_Dh-CV.pdf"
 };

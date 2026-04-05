@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion';
 import Image from 'next/image';
 import Link from 'next/link';
-import { MapPin, Github, Linkedin, Mail, ArrowRight, Download } from 'lucide-react';
+import { MapPin, Linkedin, Mail, ArrowRight, Download } from 'lucide-react';
 import { PERSONAL_INFO, ROLE_FOCUS } from '@/lib/constants';
 
 export default function HeroSection() {
@@ -89,9 +89,6 @@ export default function HeroSection() {
         >
           <a href={PERSONAL_INFO.linkedin} target="_blank" rel="noopener noreferrer" className="text-foreground/50 hover:text-accent transition-colors">
             <Linkedin className="w-6 h-6" />
-          </a>
-          <a href={PERSONAL_INFO.github} target="_blank" rel="noopener noreferrer" className="text-foreground/50 hover:text-accent transition-colors">
-            <Github className="w-6 h-6" />
           </a>
           <a href={`mailto:${PERSONAL_INFO.email}`} className="text-foreground/50 hover:text-accent transition-colors">
             <Mail className="w-6 h-6" />

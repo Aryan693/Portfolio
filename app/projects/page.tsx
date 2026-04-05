@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Github, ExternalLink, Folder } from 'lucide-react';
+import { ExternalLink, Folder } from 'lucide-react';
 import { PROJECTS } from '@/lib/constants';
 
 export default function ProjectsPage() {
@@ -61,11 +61,7 @@ export default function ProjectsPage() {
               </div>
               
               <div className="flex items-center gap-4 md:mt-1">
-                {project.github && (
-                  <a href={project.github} className="text-foreground/50 hover:text-white transition-colors" aria-label="GitHub Repository">
-                    <Github className="w-5 h-5" />
-                  </a>
-                )}
+
                 {project.link && (
                   <a href={project.link} className="text-foreground/50 hover:text-white transition-colors" aria-label="External Link">
                     <ExternalLink className="w-5 h-5" />
