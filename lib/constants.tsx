@@ -86,7 +86,7 @@ export const PROJECTS = [
     title: 'Workflow Automation Bot + Fabric Data Pipelines',
     description: 'Automated stand-up workflows for internal teams via MCP Server and Teams API. Built an enterprise-scale data ingestion framework on Microsoft Fabric passing millions of records using Medallion Architecture.',
     tags: ['MCP Server', 'Microsoft Fabric', 'Python', 'Medallion Architecture', 'Teams API'],
-    github: '#',
+    // github: '#',
     link: '/experience',
     featured: true,
   },
@@ -94,7 +94,7 @@ export const PROJECTS = [
     title: 'RAG-Based Legal Compliance System',
     description: 'Implemented document chunking and a semantic retrieval pipeline to process 1000+ contract clauses and generate automated compliance reports, reducing legal team effort by ~60%.',
     tags: ['RAG', 'FAISS', 'LlamaIndex', 'HuggingFace', 'Python'],
-    github: '#',
+    // github: '#',
     link: '#',
     featured: true,
   },
@@ -102,19 +102,19 @@ export const PROJECTS = [
     title: 'LawGPT Legal Chatbot',
     description: 'A domain-specific legal chatbot trained on legal documents from 10+ EU countries, including regulations and constitutional guidelines, to enable automated legal information retrieval.',
     tags: ['GenAI', 'LLM', 'Python', 'ML Pipeline'],
-    github: '#',
+    // github: '#',
   },
   {
     title: 'Movie Rating Platform',
     description: 'Designed a fully normalized relational database layout to support rating aggregation, complex relational queries, and user reviews. Developed local deployment strategy.',
     tags: ['SQL', 'Relational DB Design', 'Data Engineering'],
-    github: '#',
+    // github: '#',
   },
   {
     title: 'Inter IIT Sports Schedule Management Website',
     description: 'A dedicated portal for tracking live scores, leaderboards, and scheduling for Inter IIT Sports. Implemented real-time tournament match score updates using PHP and SQL.',
     tags: ['MySQL', 'PHP', 'Real-time Analytics'],
-    github: '#',
+    // github: '#',
   }
 ];
 
