@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import Image from 'next/image';
 import Link from 'next/link';
 import { MapPin, Github, Linkedin, Mail, ArrowRight, Download } from 'lucide-react';
-import { PERSONAL_INFO } from '@/lib/constants';
+import { PERSONAL_INFO, ROLE_FOCUS } from '@/lib/constants';
 
 export default function HeroSection() {
   return (
@@ -37,7 +37,7 @@ export default function HeroSection() {
           <div className="flex flex-wrap items-center gap-3 mb-4">
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/5 border border-white/10 text-xs text-foreground/80">
               <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-              Open to SDE / AI / Data Engineer roles
+              Open to {ROLE_FOCUS.join(' / ')} roles
             </div>
             <div className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-white/5 border border-white/10 text-xs text-foreground/80">
               <MapPin className="w-3 h-3 text-accent" /> {PERSONAL_INFO.location}

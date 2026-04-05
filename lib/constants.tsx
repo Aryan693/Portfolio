@@ -13,10 +13,10 @@ export const PERSONAL_INFO = {
   resumePdfUrl: "/Aryan_Nitin_Gulhane_IIT_Dh-CV.pdf"
 };
 export const ROLE_FOCUS = [
-  'AI / ML Engineer',
-  'Data Engineer',
-  'Backend Software Engineer',
-  'Applied AI Engineer'
+  'SDE',
+  'AI',
+  'ML',
+  'Data Engineer'
 ];
 export const SERVICES = [
   {
