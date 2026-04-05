@@ -2,8 +2,8 @@ import { Bot, Database, Workflow, Rocket, Briefcase, Wrench, Mail, Network, Code
 
 export const PERSONAL_INFO = {
   name: "Aryan Nitin Gulhane",
-  title: "AI & Data Engineer",
-  tagline: "Building intelligent systems — from LLM pipelines to enterprise-scale data architectures.",
+  title: "Applied AI & Data Engineer",
+  tagline: "Building scalable LLM systems, data pipelines, and backend infrastructure for real-world applications.",
   email: "aryangulhane693@gmail.com",
   phone: "+91 8779793253",
   location: "Remote · Noida · Thane",
