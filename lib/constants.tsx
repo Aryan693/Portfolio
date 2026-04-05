@@ -14,9 +14,9 @@ export const PERSONAL_INFO = {
 };
 export const ROLE_FOCUS = [
   'SDE',
-  'AI',
-  'ML',
-  'Data Engineer'
+  'AI-ML',
+  'Data Engineer',
+  'Data Scientist'
 ];
 export const SERVICES = [
   {
