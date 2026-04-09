@@ -39,7 +39,7 @@ export const HIGHLIGHTS = [
   {
     title: 'Workflow Automation Bot + Fabric Data Pipelines',
     company: 'MAQ Software',
-    tags: ['MCP Server', 'Microsoft Fabric', 'Python', 'Medallion Architecture', 'Teams API'],
+    tags: ['MCP Server', 'Microsoft Fabric', 'Python','PySpark','SparkSQL','Medallion Architecture', 'Teams API'],
     description: 'Automated stand-up workflows for internal teams; built enterprise-scale data ingestion framework handling millions of records.',
     link: '/experience'
   },
@@ -84,7 +84,7 @@ export const PROJECTS = [
   {
     title: 'Workflow Automation Bot + Fabric Data Pipelines',
     description: 'Automated stand-up workflows for internal teams via MCP Server and Teams API. Built an enterprise-scale data ingestion framework on Microsoft Fabric passing millions of records using Medallion Architecture.',
-    tags: ['MCP Server', 'Microsoft Fabric', 'Python', 'Medallion Architecture', 'Teams API'],
+    tags: ['MCP Server', 'Microsoft Fabric', 'Python','PySpark','SparkSQL', 'Medallion Architecture', 'Teams API'],
     link: '/experience',
     featured: true,
   },
